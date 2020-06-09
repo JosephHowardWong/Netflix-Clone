@@ -1,0 +1,24 @@
+{
+  "name": "netflix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephHowardWong/Netflix-Clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://JosephHowardWong.github.io/netflix",
+  "bugs": {
+    "url": "https://github.com/JosephHowardWong/Netflix-Clone/issues"
+  },
+  "homepage": "https://github.com/JosephHowardWong/Netflix-Clone#readme",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
